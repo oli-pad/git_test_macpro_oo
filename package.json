@@ -9,10 +9,31 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/comfortaa": "^0.2.2",
+    "@react-native-firebase/app": "^17.3.0",
+    "@react-native-firebase/auth": "^17.3.0",
+    "@react-navigation/native-stack": "^6.9.8",
+    "@react-navigation/stack": "^6.3.11",
+    "deprecated-react-native-prop-types": "^4.0.0",
     "expo": "~47.0.12",
+    "expo-app-loading": "~2.1.1",
+    "expo-dev-client": "~2.0.1",
+    "expo-firebase-database": "^2.0.0",
+    "expo-firebase-functions": "^2.0.0",
+    "expo-firebase-instance-id": "^2.0.0",
+    "expo-firebase-invites": "^2.0.0",
+    "expo-firebase-messaging": "^2.0.0",
+    "expo-firebase-notifications": "^2.0.0",
+    "expo-firebase-performance": "^2.0.0",
+    "expo-firebase-remote-config": "^2.0.0",
+    "expo-firebase-storage": "^2.0.0",
     "expo-status-bar": "~1.4.2",
+    "firebase": "^9.17.1",
+    "firebase-tools": "^11.22.0",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-firebase": "^5.6.0",
+    "react-navigation": "^4.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

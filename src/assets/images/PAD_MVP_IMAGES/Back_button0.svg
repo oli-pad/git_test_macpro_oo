@@ -1,0 +1,5 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="28" cy="28" r="27" fill="white" stroke="#313131" stroke-width="2"/>
+<line x1="1" y1="-1" x2="25.5683" y2="-1" transform="matrix(-0.766044 0.642788 -0.813595 -0.581433 34.6763 11)" stroke="#313131" stroke-width="2" stroke-linecap="round"/>
+<line x1="1" y1="-1" x2="25.5683" y2="-1" transform="matrix(-0.766044 -0.642788 0.813595 -0.581433 36.3525 44.479)" stroke="#313131" stroke-width="2" stroke-linecap="round"/>
+</svg>
